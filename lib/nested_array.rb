@@ -38,7 +38,7 @@ def assembled_matrix
        "Asparagus"
        ]
    ]
-  nested_array
+  nested_array.sort 
 end
 
 def sorted_matrix
