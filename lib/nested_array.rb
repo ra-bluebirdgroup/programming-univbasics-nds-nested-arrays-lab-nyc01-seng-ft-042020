@@ -49,7 +49,8 @@ def sorted_matrix
        "Asparagus"
        ]
    ]
-  nested_array.sort
+  nested_array.sort 
+  nested_array
 
 end
 
