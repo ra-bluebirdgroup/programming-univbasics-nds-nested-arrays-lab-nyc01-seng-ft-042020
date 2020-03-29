@@ -38,7 +38,7 @@ def assembled_matrix
        "Asparagus"
        ]
    ]
-  nested_array.sort 
+  nested_array.sort
 end
 
 def sorted_matrix
@@ -49,7 +49,7 @@ def sorted_matrix
      CONVENTIONAL_PRODUCE,
      ORGANIC_PRODUCE
    ]
-  nested_array
+  nested_array.sort
 end
 
 def matrix_lookup(matrix, row, column)
