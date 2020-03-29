@@ -34,20 +34,20 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
   nested_array = [
      [
-      "Grapefruit",
-      "Pineapple",
-      "Oranges",
-      "Watermelon",
-      "Eggplant"
-      ],
-
-      [
        "Strawberries",
        "Potatoes",
        "Grapes",
        "Avocadoes",
        "Asparagus"
-       ]
+     ],
+     [
+      "Grapefruit",
+      "Pineapple",
+      "Oranges",
+      "Watermelon",
+      "Eggplant"
+      ]
+
    ]
   nested_array.sort
   nested_array
