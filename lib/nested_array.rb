@@ -24,7 +24,7 @@ def assembled_matrix
   nested_array =[
      ORGANIC_PRODUCE,
      CONVENTIONAL_PRODUCE
-  ] 
+  ]
   nested_array
 end
 
